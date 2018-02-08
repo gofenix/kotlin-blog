@@ -2,9 +2,1155 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca97b7-1096-4205-a9b0-320939907e00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/kotlin-blog.kotlin_module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-build/artifact-difference.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-build/artifact-difference.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-build/artifact-difference.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-build/artifact-difference.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-build/artifact-difference.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-build/artifact-difference.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-build/artifact-difference.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-build/version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/data-container-format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/gradle-format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/sql/article.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/blog/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/blog/blog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/Contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/column_render.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/complex_header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/defaults.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/dom_multiple_elements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/dom_toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/dt_events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/events_live.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/footer_callback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/html5-data-attributes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/html5-data-options.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/language_file.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/length_menu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/object_dom_read.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/row_callback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/row_grouping.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/advanced_init/sort_direction_control.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/custom_data_flat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/custom_data_property.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/data/arrays.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/data/arrays_custom_prop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/data/arrays_subobjects.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/data/objects.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/data/objects_deep.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/data/objects_root_array.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/data/objects_subarrays.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/data/orthogonal.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/deep.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/defer_render.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/null_data_source.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/objects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/objects_subarrays.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/orthogonal-data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/ajax/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/add_row.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/api_in_init.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/counter_columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/highlight.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/multi_filter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/multi_filter_select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/regex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/row_details.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/select_row.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/select_single_row.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/show_hide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/api/tabs_and_scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/alt_pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/comma-decimal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/complex_header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/dom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/filter_only.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/flexible_width.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/hidden_columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/language.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/multi_col_sort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/multiple_tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/scroll_x.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/scroll_xy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/scroll_y.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/scroll_y_dynamic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/state_save.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/table_sorting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/basic_init/zero_configuration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/data_sources/ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/data_sources/dom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/data_sources/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/data_sources/js_array.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/data_sources/server_side.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/plug-ins/api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/plug-ins/dom_sort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/plug-ins/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/plug-ins/range_filtering.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/plug-ins/sorting_auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/plug-ins/sorting_manual.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/resources/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/resources/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/resources/details_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/resources/details_open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/resources/examples.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/resources/syntax/Syntax Highlighter license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/resources/syntax/shCore.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/resources/syntax/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/custom_vars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/defer_loading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/ids.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/jsonp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/object_data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/pipeline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/row_details.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/ids-arrays.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/ids-objects.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/jsonp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/mysql.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/objects.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/oracle.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/postgres.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/server_processing.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/sqlite.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/sqlserver.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/scripts/ssp.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/select_rows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/server_side/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/cell-border.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/compact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/display.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/hover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/jqueryUI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/material.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/no-classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/order-column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/row-border.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/stripe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/examples/styling/uikit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/css/autoFill.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/alwaysAsk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/enableDisable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/fills.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/focus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/keyTable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/plugins.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.bootstrap4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.bootstrap4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.jqueryui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.jqueryui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.semanticui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/autoFill.semanticui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/dataTables.autoFill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/AutoFill/js/dataTables.autoFill.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/buttons.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/common.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/css/mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/api/addRemove.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/api/enable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/api/group.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/api/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/api/text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/columnGroups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/columnText.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/columnsToggle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/restore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/stateSave.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/column_visibility/text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/copyi18n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/filename.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/hidden.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/pdfMessage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/pdfPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/swfPath.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/flash/tsv.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/copyi18n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/customFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/excelBorder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/excelCellShading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/excelTextBold.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/filename.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/outputFormat-function.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/outputFormat-orthogonal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/pdfImage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/pdfMessage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/pdfOpen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/pdfPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/html5/tsv.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/className.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/collections-autoClose.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/collections-sub.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/collections.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/export.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/keys.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/multiple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/pageLength.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/plugins.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/print/autoPrint.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/print/columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/print/customisation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/print/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/print/message.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/print/select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/print/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/styling/icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.bootstrap4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.bootstrap4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.colVis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.colVis.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.flash.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.html5.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.jqueryui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.jqueryui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.print.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.print.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.semanticui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/buttons.semanticui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/dataTables.buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/js/dataTables.buttons.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Buttons/swf/flashExport.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/css/colReorder.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/initialisation/col_filter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/initialisation/new_init.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/initialisation/predefined.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/initialisation/realtime.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/initialisation/reset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/initialisation/scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/integration/colvis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/integration/fixedcolumns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/integration/fixedheader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/integration/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/integration/responsive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/integration/server_side.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/integration/state_save.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/styling/alt_insert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/js/dataTables.colReorder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/css/fixedColumns.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/colvis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/css_size.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/index_column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/left_right_columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/right_column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/server-side-processing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/size_fixed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/size_fluid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/initialisation/two_columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/integration/api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/integration/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/integration/select-checkbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/integration/select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/col_filter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/colvis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/rowspan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/examples/styling/server-side-processing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/css/fixedHeader.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/integration/buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/integration/colreorder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/integration/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/integration/responsive-bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/integration/responsive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/enable-disable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/header_footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/horizontal-scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/offset-automatic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/offset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/show-hide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/options/two_tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/css/keyTable.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/initialisation/blurable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/initialisation/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/initialisation/scroller.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/initialisation/scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/initialisation/server-side.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/initialisation/stateSave.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/styling/focusStyle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/js/dataTables.keyTable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/KeyTable/js/dataTables.keyTable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/css/responsive.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/child-rows/column-control.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/child-rows/custom-renderer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/child-rows/disable-child-rows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/child-rows/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/child-rows/right-column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/child-rows/whole-row-control.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/column-control/auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/column-control/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/column-control/colreorder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/column-control/column-visibility.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/column-control/columnPriority.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/column-control/fixedHeader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/column-control/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/column-control/init-classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/display-types/bootstrap-modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/display-types/bootstrap4-modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/display-types/foundation-modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/display-types/immediateShow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/display-types/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/display-types/jqueryui-modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/display-types/modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/display-types/semanticui-modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/initialisation/ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/initialisation/className.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/initialisation/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/initialisation/new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/initialisation/option.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/styling/compact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/styling/scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/dataTables.responsive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/dataTables.responsive.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.bootstrap4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.bootstrap4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.jqueryui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.jqueryui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.semanticui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Responsive/js/responsive.semanticui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/css/rowGroup.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/initialisation/ajaxObjects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/initialisation/customRow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/initialisation/endRender.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/initialisation/event.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/initialisation/fixedOrdering.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/initialisation/startAndEndRender.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/js/dataTables.rowGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowGroup/js/dataTables.rowGroup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/rowReorder.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/css/semanticui.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/initialisation/defaults.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/initialisation/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/initialisation/responsive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/initialisation/restrictedOrdering.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/initialisation/scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/initialisation/selector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/styling/reorderClass.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/examples/styling/snapX.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/js/dataTables.rowReorder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/RowReorder/js/dataTables.rowReorder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/css/scroller.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/data/2500.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/data/ssp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/initialisation/api_scrolling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/initialisation/fixedColumns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/initialisation/large_js_source.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/initialisation/select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/initialisation/server-side_processing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/initialisation/state_saving.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/js/dataTables.scroller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Scroller/js/dataTables.scroller.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/css/select.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/api/cancellableEvents.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/api/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/api/get.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/api/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/api/select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/blurable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/cells.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/checkbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/deferRender.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/i18n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/multi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/reload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/initialisation/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/styling/bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/styling/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/styling/foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/styling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/styling/jqueryui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/examples/styling/semanticui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/js/dataTables.select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/extensions/Select/js/dataTables.select.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.bootstrap4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.bootstrap4.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.material.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.material.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.semanticui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.semanticui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.uikit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/dataTables.uikit.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/jquery.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/jquery.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/css/jquery.dataTables_themeroller.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/images/Sorting icons.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/images/sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/images/sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/images/sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/images/sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/images/sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.bootstrap4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.bootstrap4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.jqueryui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.jqueryui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.material.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.material.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.semanticui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.semanticui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.uikit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/dataTables.uikit.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/jquery.dataTables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/datatables/media/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/flat-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/flat-ui.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/flat-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/glyphicons/flat-ui-icons-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/glyphicons/flat-ui-icons-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/glyphicons/flat-ui-icons-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/glyphicons/flat-ui-icons-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/glyphicons/selection.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-bold.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-bolditalic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-bolditalic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-bolditalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-bolditalic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-light.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/fonts/lato/lato-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Clipboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Compas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Gift-Box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Infinity-Loop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Pensils.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Pocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Retina-Ready.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Toilet-Paper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/png/Watches.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/book.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/chat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/clipboard.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/clocks.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/compas.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/gift-box.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/loop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/mail.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/map.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/paper-bag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/pencils.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/retina.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/ribbon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/icons/svg/toilet-paper.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/login/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/login/imac-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/login/imac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/tile/ribbon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/img/tile/ribbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/js/flat-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/js/flat-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/js/vendor/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/js/vendor/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/js/vendor/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/js/vendor/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/js/vendor/video-js.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/dist/js/vendor/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/css/demo.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/css/docs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/css/docs.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/css/src/demo.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/css/src/docs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/css/src/prettyprint.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser-author.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser-pic-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser-pic-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser-pic-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser-pic-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser-pic-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser-pic-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/html-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/logo-mask-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/logo-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/demo/video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/example-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/footer/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/getting-started/icomoon_import.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/img/video/poster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/js/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/assets/js/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/components.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/dropdowns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/forms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/navbar-fixed-top.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/navbar-static-top.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/navbars-with-elements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/navbars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/radiocheck.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/switches.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/tagsinput.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/thumbnails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/tiles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/todo-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/tooltips.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/examples/vertical-slider.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/getting-started.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/docs/template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/glyphicons/flat-ui-icons-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/glyphicons/flat-ui-icons-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/glyphicons/flat-ui-icons-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/glyphicons/flat-ui-icons-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/glyphicons/selection.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-bold.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-bolditalic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-bolditalic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-bolditalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-bolditalic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-light.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/fonts/lato/lato-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Clipboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Compas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Gift-Box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Infinity-Loop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Pensils.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Pocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Retina-Ready.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Toilet-Paper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/png/Watches.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/book.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/chat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/clipboard.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/clocks.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/compas.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/gift-box.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/loop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/mail.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/map.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/paper-bag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/pencils.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/retina.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/ribbon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/icons/svg/toilet-paper.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/login/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/login/imac-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/login/imac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/tile/ribbon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/img/tile/ribbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/js/.jscs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/js/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/js/radiocheck.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/flat-ui.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/background-clip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/image.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/navbar-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/pallets.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/resize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/select.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/size.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/switches.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/mixins/vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/footer.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/local-fonts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/login.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/palette.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/radiocheck.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/select.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/share.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/slider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/switch.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/tagsinput.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/tiles.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/todo-list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/typeahead.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/modules/video.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/spaces.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/flatui/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/.eslintrc.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/build.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/clear.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/e2e.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/prepublish.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/restart.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/start.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/stop.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/test.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/unit.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/bin/watch.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/css/mditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/css/mditor.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/css/mditor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/css/mditor.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/font/674f50d287a8c48dc19ba404d20fe713.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/font/912ec66d7572ff821749319396470bde.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/font/a48ac41620cd818c5020d0f4302489ff.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/font/af7ae505a9eed503f8b8e6982036873e.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/font/b06871f281fee6b241d60582ae9369b9.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/font/fee66e712a8a08eef5805a46892932ad.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/js/mditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/js/mditor.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/js/mditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/dist/js/mditor.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/css/mditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/css/mditor.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/css/mditor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/css/mditor.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/font/674f50d287a8c48dc19ba404d20fe713.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/font/912ec66d7572ff821749319396470bde.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/font/a48ac41620cd818c5020d0f4302489ff.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/font/af7ae505a9eed503f8b8e6982036873e.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/font/b06871f281fee6b241d60582ae9369b9.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/font/fee66e712a8a08eef5805a46892932ad.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/js/mditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/js/mditor.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/js/mditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/demo/js/mditor.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/images/mditor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/jasmine.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/server.local.yml.rename" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/server.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-BlackItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/Roboto-ThinItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/RobotoMono-ThinItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/fonts/robotomono.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/assets/index.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/client/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/client/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/client/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/client/shortcut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/common/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/editor/commands.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/editor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/editor/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/editor/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/editor/stack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/finder/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/finder/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/finder/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/plugins/csv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/server/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/toolbar/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/toolbar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/toolbar/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/toolbar/items.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/viewer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/viewer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/src/viewer/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/test/driver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/test/e2e/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/test/e2e/demo.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/test/unit/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/test/unit/demo.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/mditor-master/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/templates/addArticle.ftl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/templates/common/head.ftl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/templates/common/navbar.ftl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/templates/detailArticle.ftl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/templates/list.ftl" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.5/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.5/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.5/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.5/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -68,6 +1214,48 @@
                 <item name="kotlin-blog" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-blog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-blog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-blog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-blog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-blog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="ide" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-blog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-blog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -152,7 +1340,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -161,8 +1349,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+            <state relative-caret-position="1040">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -986,7 +2174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.KotlinBlogApplication">
+  <component name="RunManager" selected="Gradle.kotlin-blog [clean]">
     <configuration name="KotlinBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.easy.kotlin.kotlinblog.KotlinBlogApplication" />
@@ -1127,17 +2315,36 @@
         <option name="vmOptions" />
       </ExternalSystemSettings>
     </configuration>
-    <list size="4">
+    <configuration name="kotlin-blog [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.KotlinBlogApplication" />
       <item index="1" class="java.lang.String" itemvalue="Kotlin.com.easy.kotlin.kotlinblog.KotlinBlogApplicationKt" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.KotlinBlogApplicationTests.testRepository" />
       <item index="3" class="java.lang.String" itemvalue="Gradle.kotlin-blog [bootRun]" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.kotlin-blog [clean]" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.kotlin-blog [bootRun]" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.com.easy.kotlin.kotlinblog.KotlinBlogApplicationKt" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.KotlinBlogApplicationTests.testRepository" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.kotlin-blog [clean]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.kotlin-blog [bootRun]" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.com.easy.kotlin.kotlinblog.KotlinBlogApplicationKt" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.KotlinBlogApplicationTests.testRepository" />
       </list>
     </recent_temporary>
   </component>
@@ -1151,7 +2358,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518008368833</updated>
-      <workItem from="1518008371870" duration="16539000" />
+      <workItem from="1518008371870" duration="16642000" />
     </task>
     <servers />
   </component>
@@ -1170,18 +2377,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16539000" />
+    <option name="totallyTimeSpent" value="16642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1482,15 +2688,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        <state relative-caret-position="1040">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
