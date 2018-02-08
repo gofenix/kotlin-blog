@@ -21,7 +21,6 @@ class KotlinBlogApplicationTests {
 
 	@Test
 	fun testRepository(){
-
 		articleRepository?.save(Article())
 	}
 

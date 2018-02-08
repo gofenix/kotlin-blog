@@ -17,12 +17,6 @@ class ArticleController {
     @Autowired
     val articleRepository: ArticleRepository? = null
 
-    @GetMapping("/find/all")
-    @ResponseBody
-    fun findAlls(): List<Article>? {
-        return articleRepository?.findAll()
-    }
-
     @GetMapping("listAllArticleView")
     fun listAllArticleView(model: Model): ModelAndView {
         model.addAttribute("articles", articleRepository?.findAll())
@@ -47,6 +41,17 @@ class ArticleController {
     @GetMapping("addArticleView")
     fun addArticleView(): ModelAndView {
         return ModelAndView("addArticle")
+    }
+
+    @GetMapping("editArticleView")
+    fun editArticleView(id: Long, title: String, author:String, content: String, model: Model): ModelAndView {
+        var article=Article()
+        article.id=id
+        article.title=title
+        article.author=author
+        article.content=content
+        model.addAttribute("article", article)
+        return ModelAndView("editArticle")
     }
 
 }

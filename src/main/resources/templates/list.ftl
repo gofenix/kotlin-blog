@@ -5,9 +5,9 @@
 </head>
 <body>
 <#include "common/navbar.ftl">
-<div class="container">
-    <#--<h1>我的博客</h1>-->
-    <#--<a href="addArticleView" target="_blank" class="btn btn-primary pull-right add-article">写文章</a>-->
+<div class="container-fluid">
+<#--<h1>我的博客</h1>-->
+<#--<a href="addArticleView" target="_blank" class="btn btn-primary pull-right add-article">写文章</a>-->
     <table id="articlesDataTable" class="table table-responsive table-bordered">
         <thead>
         <th>序号</th>
@@ -23,7 +23,7 @@
             <td><a target="_blank" href="detailArticleView?id=${article.id}">${article.title}</a></td>
             <td>${article.author}</td>
             <td>${article.gmtModified}</td>
-            <td><a href="#" target="_blank">编辑</a></td>
+            <td><a href="editArticleView?id=${article.id}&author=${article.author}&title=${article.title}&content=${article.content}" target="_blank">编辑</a></td>
         </tr>
         </#list>
         </tbody>
