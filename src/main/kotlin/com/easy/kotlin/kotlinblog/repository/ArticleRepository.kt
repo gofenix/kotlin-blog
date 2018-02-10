@@ -5,4 +5,7 @@ import org.springframework.data.repository.CrudRepository
 
 interface ArticleRepository : CrudRepository<Article, Long>{
     override fun findAll(): List<Article>
+
+//    @Modifying
+//    @Query("update article set ")
 }

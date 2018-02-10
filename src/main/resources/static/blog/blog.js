@@ -31,6 +31,40 @@ $(function () {
         alert('保存失败')
     }
 
+
+    $('#editArticleBtn').on('click', function () {
+        updateArticle()
+    })
+
+    function updateArticle() {
+        $.ajax({
+            url: "updateArticle",
+            data: $('#editArticleForm').serialize(),
+            type: "POST",
+            async: false,
+            success: function (resp) {
+                if (resp) {
+                    updateArticleSuccess(resp)
+                } else {
+                    updateArticleFail()
+                }
+            },
+            error: function () {
+                updateArticleFail()
+            }
+        })
+    }
+
+    function updateArticleSuccess(resp) {
+        alert('保存成功： ' + JSON.stringify(resp))
+        window.open('detailArticleView?id=' + resp.id)
+    }
+
+    function updateArticleFail() {
+        alert('保存失败')
+    }
+
+
     //这个option是自定义dataTables用的
     var aLengthMenu = [7, 10, 20, 50, 100, 200]
     var dataTableOptions = {

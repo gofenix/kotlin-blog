@@ -8,7 +8,7 @@
         mditor.split = true
         mditor.fullscreen = false
         mditor.on('ready', function () {
-            mditor.value = $('#articleContent').val()
+            mditor.value = document.getElementById('articleContentShow').placeholder
         })
 
     })
@@ -16,7 +16,7 @@
 <body>
 <div class="container-fluid">
 <#--<h2>写文章</h2>-->
-    <form id="addArticleForm" class="form-horizontal">
+    <form id="editArticleForm" class="form-horizontal">
         <div class="form-group">
             <input type="text" name="title" class="form-control" placeholder="文章标题" value="${article.title}"/>
         </div>
@@ -27,12 +27,14 @@
         </div>
         <div class="form-group save-article">
             <div class="col-sm-offset-2 col-sm-10">
-                <button type="submit" class="btn btn-primary" id="addArticleBtn">保存并退出</button>
+                <button type="submit" class="btn btn-primary" id="editArticleBtn">保存并退出</button>
             </div>
         </div>
+
     </form>
-    <h1 id="articleContent">${article.content}</h1>
-    <h1>${article.title}</h1>
+
+    <textarea id="articleContentShow" placeholder="<#escape x as x?html>${article.content}</#escape>"
+              style="display: none"></textarea>
 </div>
 </body>
 </html>

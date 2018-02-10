@@ -23,7 +23,7 @@
             <td><a target="_blank" href="detailArticleView?id=${article.id}">${article.title}</a></td>
             <td>${article.author}</td>
             <td>${article.gmtModified}</td>
-            <td><a href="editArticleView?id=${article.id}&author=${article.author}&title=${article.title}&content=${article.content}" target="_blank">编辑</a></td>
+            <td><a href="editArticleView?id=${article.id}" target="_blank">编辑</a></td>
         </tr>
         </#list>
         </tbody>

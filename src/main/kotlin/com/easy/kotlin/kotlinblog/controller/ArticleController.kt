@@ -32,6 +32,14 @@ class ArticleController {
         return articleRepository?.save(article)
     }
 
+    @PostMapping("updateArticle")
+    @ResponseBody
+    fun updateArticle(article: Article):Article?{
+        article.version+=1
+        article.gmtModified=Date()
+
+    }
+
     @GetMapping("detailArticleView")
     fun detailArticleView(id: Long, model: Model): ModelAndView {
         model.addAttribute("article", articleRepository?.findById(id)?.get())
@@ -44,14 +52,10 @@ class ArticleController {
     }
 
     @GetMapping("editArticleView")
-    fun editArticleView(id: Long, title: String, author:String, content: String, model: Model): ModelAndView {
-        var article=Article()
-        article.id=id
-        article.title=title
-        article.author=author
-        article.content=content
-        model.addAttribute("article", article)
+    fun editArticleView(id: Long, model: Model): ModelAndView {
+        model.addAttribute("article", articleRepository?.findById(id)?.get())
         return ModelAndView("editArticle")
     }
+
 
 }
