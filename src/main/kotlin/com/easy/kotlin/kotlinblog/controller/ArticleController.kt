@@ -36,8 +36,13 @@ class ArticleController {
     @ResponseBody
     fun updateArticle(article: Article): Article? {
         article.gmtModified = Date()
-        articleRepository?.save(article)
-        return article
+        return articleRepository?.save(article)
+    }
+
+    @PostMapping("deleteArticle")
+    @ResponseBody
+    fun deleteArticle(id: Long) {
+        articleRepository?.deleteById(id)
     }
 
     @GetMapping("detailArticleView")
@@ -56,6 +61,5 @@ class ArticleController {
         model.addAttribute("article", articleRepository?.findById(id)?.get())
         return ModelAndView("editArticle")
     }
-
 
 }

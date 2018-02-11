@@ -23,11 +23,33 @@
             <td><a target="_blank" href="detailArticleView?id=${article.id}">${article.title}</a></td>
             <td>${article.author}</td>
             <td>${article.gmtModified}</td>
-            <td><a href="editArticleView?id=${article.id}" target="_blank">编辑</a></td>
+            <td>
+                <a href="editArticleView?id=${article.id}" target="_blank">编辑</a>
+                &nbsp;&nbsp;
+                <#--<a href="deleteArticle?id=${article.id}">删除</a>-->
+                <a href="javascript:void(0);" onclick="deleteArticle(${article.id})">删除</a>
+            </td>
         </tr>
         </#list>
         </tbody>
     </table>
 </div>
 </body>
+
+<script>
+    function deleteArticle(id) {
+        $.ajax({
+            url: "deleteArticle",
+            data: {"id": id},
+            type: "POST",
+            async: false,
+            success: function () {
+                location.reload()
+                alert("已经删除")
+            }
+        })
+    }
+
+</script>
+
 </html>

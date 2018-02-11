@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7cca97b7-1096-4205-a9b0-320939907e00" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/static/blog/blog.js" afterPath="$PROJECT_DIR$/out/production/resources/static/blog/blog.js" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/KotlinBlogApplication.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/KotlinBlogApplication.kt" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/list.ftl" afterPath="$PROJECT_DIR$/out/production/resources/templates/list.ftl" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/controller/ArticleController.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/controller/ArticleController.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/entity/Article.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/entity/Article.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/repository/ArticleRepository.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/repository/ArticleRepository.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/blog/blog.js" afterPath="$PROJECT_DIR$/src/main/resources/static/blog/blog.js" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/editArticle.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/editArticle.ftl" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/list.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/list.ftl" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -86,8 +82,8 @@
       <file leaf-file-name="blog.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/blog/blog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+            <state relative-caret-position="779">
+              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding>
                 <element signature="e#123#583#0" expanded="false" />
                 <element signature="e#623#732#0" expanded="false" />
@@ -104,29 +100,31 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="65">
               <caret line="19" column="78" lean-forward="false" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskThread.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.27/39da3cdb8ac2650c4210c74db7377806cd8e8871/tomcat-embed-core-8.5.27-sources.jar!/org/apache/tomcat/util/threads/TaskThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.ftl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="list.ftl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/list.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="79">
+              <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.dataTables.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/datatables/media/js/jquery.dataTables.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="4042" column="38" lean-forward="false" selection-start-line="4042" selection-start-column="38" selection-end-line="4042" selection-end-column="38" />
+              <folding>
+                <marker date="1492478982000" expanded="true" signature="157864:157889" ph="..." />
+                <marker date="1492478982000" expanded="true" signature="158111:158136" ph="..." />
+                <marker date="1492478982000" expanded="true" signature="426472:426480" ph="&amp;##x2026;" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,8 +132,8 @@
       <file leaf-file-name="ArticleController.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/controller/ArticleController.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="37">
+              <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="35" />
               <folding>
                 <element signature="e#47#553#0" expanded="true" />
               </folding>
@@ -143,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Article.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Article.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/entity/Article.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="329">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -179,20 +177,10 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/KotlinBlogApplication.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="212">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding>
                 <element signature="e#36#363#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CrudRepository.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.3.RELEASE/3a5366e572be92f780660b1fb973a886ebc331a0/spring-data-commons-2.0.3.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1221">
-              <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -641,13 +629,13 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/addArticle.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/common/navbar.ftl" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/list.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/static/blog/blog.js" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/editArticle.ftl" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/KotlinBlogApplication.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/repository/ArticleRepository.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/controller/ArticleController.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/entity/Article.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/controller/ArticleController.kt" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/list.ftl" />
       </list>
     </option>
   </component>
@@ -749,19 +737,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kotlin-blog" type="58d84e3e:PackageViewProjectNode" />
-              <item name="kotlin-blog" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -848,18 +823,6 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="kotlinblog" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-blog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlinblog" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -987,6 +950,19 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kotlin-blog" type="58d84e3e:PackageViewProjectNode" />
+              <item name="kotlin-blog" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1217,6 +1193,7 @@
       <workItem from="1518008371870" duration="23852000" />
       <workItem from="1518264022421" duration="3037000" />
       <workItem from="1518331987878" duration="3397000" />
+      <workItem from="1518338280409" duration="1897000" />
     </task>
     <servers />
   </component>
@@ -1235,10 +1212,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30286000" />
+    <option name="totallyTimeSpent" value="32183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1259,7 +1237,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1279,7 +1257,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1373,13 +1351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/datatables/media/js/jquery.dataTables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15035" column="27" lean-forward="false" selection-start-line="15035" selection-start-column="27" selection-end-line="15035" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1544,15 +1515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/list.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1568,75 +1530,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/detailArticle.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="16" column="84" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.27/39da3cdb8ac2650c4210c74db7377806cd8e8871/tomcat-embed-core-8.5.27-sources.jar!/org/apache/tomcat/util/threads/TaskThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.3.RELEASE/3a5366e572be92f780660b1fb973a886ebc331a0/spring-data-commons-2.0.3.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1221">
-          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="19">
+          <caret line="92" column="9" lean-forward="false" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/KotlinBlogApplication.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="e#36#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/editArticle.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="19" column="78" lean-forward="false" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/blog/blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-          <folding>
-            <element signature="e#123#583#0" expanded="false" />
-            <element signature="e#623#732#0" expanded="false" />
-            <element signature="e#765#794#0" expanded="false" />
-            <element signature="e#1564#1593#0" expanded="false" />
-            <element signature="e#1702#2615#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/controller/ArticleController.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="e#47#553#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1650,10 +1551,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/KotlinBlogApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#36#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.27/39da3cdb8ac2650c4210c74db7377806cd8e8871/tomcat-embed-core-8.5.27-sources.jar!/org/apache/tomcat/util/threads/TaskThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="65" column="13" lean-forward="false" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/editArticle.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="19" column="78" lean-forward="false" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/entity/Article.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="329">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/datatables/media/js/jquery.dataTables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="4042" column="38" lean-forward="false" selection-start-line="4042" selection-start-column="38" selection-end-line="4042" selection-end-column="38" />
+          <folding>
+            <marker date="1492478982000" expanded="true" signature="157864:157889" ph="..." />
+            <marker date="1492478982000" expanded="true" signature="158111:158136" ph="..." />
+            <marker date="1492478982000" expanded="true" signature="426472:426480" ph="&amp;##x2026;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/detailArticle.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="16" column="84" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/blog/blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#123#583#0" expanded="false" />
+            <element signature="e#623#732#0" expanded="false" />
+            <element signature="e#765#794#0" expanded="false" />
+            <element signature="e#1564#1593#0" expanded="false" />
+            <element signature="e#1702#2615#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/easy/kotlin/kotlinblog/controller/ArticleController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#47#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/list.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
           <folding />
         </state>
       </provider>
