@@ -38,7 +38,7 @@ $(function () {
 
     function updateArticle() {
         $.ajax({
-            url: "saveArticle",
+            url: "updateArticle",
             data: $('#editArticleForm').serialize(),
             type: "POST",
             async: false,
@@ -56,7 +56,7 @@ $(function () {
     }
 
     function updateArticleSuccess(resp) {
-        alert('保存成功： ' + JSON.stringify(resp))
+        alert('更新成功： ' + JSON.stringify(resp))
         window.open('detailArticleView?id=' + resp.id)
     }
 

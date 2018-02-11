@@ -17,6 +17,8 @@
 <div class="container-fluid">
 <#--<h2>写文章</h2>-->
     <form id="editArticleForm" class="form-horizontal">
+        <input type="text" name="id" style="display: none" value="${article.id}">
+
         <div class="form-group">
             <input type="text" name="title" class="form-control" placeholder="文章标题" value="${article.title}"/>
         </div>

@@ -56,7 +56,7 @@ $(function () {
     }
 
     function updateArticleSuccess(resp) {
-        alert('保存成功： ' + JSON.stringify(resp))
+        alert('更新成功： ' + JSON.stringify(resp))
         window.open('detailArticleView?id=' + resp.id)
     }
 

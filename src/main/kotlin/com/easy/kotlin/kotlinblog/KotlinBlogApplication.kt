@@ -15,7 +15,7 @@ class KotlinBlogApplication{
         article.author="Lucas"
         article.title="学习kotlin"
         article.content="如何开始学习kotlin呢，这里我给大家提供一个方法，。。。。"
-        articleRepository.save(article)
+//        articleRepository.save(article)
     }
 }
 

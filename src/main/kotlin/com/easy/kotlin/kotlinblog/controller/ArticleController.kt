@@ -34,10 +34,10 @@ class ArticleController {
 
     @PostMapping("updateArticle")
     @ResponseBody
-    fun updateArticle(article: Article):Article?{
-        article.version+=1
-        article.gmtModified=Date()
-
+    fun updateArticle(article: Article): Article? {
+        article.gmtModified = Date()
+        articleRepository?.save(article)
+        return article
     }
 
     @GetMapping("detailArticleView")

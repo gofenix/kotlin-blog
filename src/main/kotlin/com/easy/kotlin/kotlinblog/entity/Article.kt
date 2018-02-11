@@ -14,7 +14,7 @@ class Article {
 
     var title: String = ""
     var content: String = ""
-    var author: String = ""
+    var author: String = "Lucas"
     var gmtCreated: Date = Date()
     var gmtModified: Date = Date()
     var isDelected: Int = 0 // 1 is yes, 0 is no
